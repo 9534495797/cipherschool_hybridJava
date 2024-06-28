@@ -32,5 +32,22 @@ public class StringStudy2 {
 
     int index1=name.indexOf('s');
     System.out.println(index1);
+
+    //substring
+    String string=name.substring(1);
+String string1=name.substring(1, 3);
+System.out.println(string);
+System.out.println(string1);
+
+
+
+//
+System.out.println(name.charAt(3));
+
+//string to char array
+char arr2[]=name.toCharArray();
+for(int i=0;i<arr2.length;i++){
+    System.out.println(arr2[i]);
+}
   }  
 }

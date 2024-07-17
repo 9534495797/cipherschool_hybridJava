@@ -1,0 +1,26 @@
+IMPLEMENTATION OF BST
+“BINARY SEARCH TREE”
+To –Cipherschool
+Name: Ankit chaubey
+Note: project short report
+
+
+
+
+
+
+
+
+
+
+
+•
+I have used the language java to implement the functionalities of BST.
+•
+The functionalities of this project is how to insert the nodes in a BST.
+•
+Searching any particular node and delete any particular node from the BST is also the part of this project.
+•
+I have implemented what I have learnt from Cipherschool.
+•
+After deleting any particular node it will print the updated tree in all the three orders INORDER, PREORDER and POSTORDER.
